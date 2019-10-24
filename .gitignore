@@ -32,6 +32,8 @@ dist
 .venv
 env/
 venv/
+env36/
+env37/
 ENV/
 env.bak/
 venv.bak/
@@ -40,3 +42,5 @@ venv.bak/
 __pycache__/
 *.py[cod]
 *$py.class
+
+.python_packages/
